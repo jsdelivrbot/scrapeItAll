@@ -1,2 +1,8 @@
 # scrapeItAll
-nodejs scraper
+* nodejs scraper
+
+' git push heroku master
+
+heroku logs --tail
+
+
